@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+
+# keep track of previous versions for usability
+version_archive/
+
+# problem set
+aim/
